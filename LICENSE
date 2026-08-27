@@ -1,23 +1,19 @@
-CLB Public License - Version 1.0
+# CLB Public License - Version 1.0
 
-Copyright (c) 2026 and-to-you
+**Copyright (c) 2026 and-to-you**
 
-Permission is hereby granted to use, execute, and incorporate this code into 
-any software or application. However, any usage or distribution of this code 
-is strictly subject to the following conditions:
+Permission is hereby granted to anyone, free of charge, to use, execute, and incorporate this source code into any software, library, or application. However, any usage, modification, or distribution of this code is strictly subject to the following conditions:
 
-1. NO FALSE CLAIM OF OWNERSHIP: 
-You are permitted to modify or incorporate this code, but claiming the original 
-algorithm or code as your own creation is strictly prohibited. 
+### 1. NO FALSE CLAIM OF OWNERSHIP
+You are permitted to modify or incorporate this code into your projects, but claiming the original CLB algorithm or source code as your own creation is strictly prohibited. 
 
-2. NO SEPARATE REDISTRIBUTION OR RELICENSING: 
-Redistribution of the original, standalone code by any person or organization 
-outside of ours is prohibited. You may publish software that incorporates this code, 
-but changing or applying a different license to the CLB core code itself is strictly prohibited.
+### 2. NO STANDALONE REDISTRIBUTION OR RELICENSING
+Redistribution of the original, standalone source code by any person or organization outside of ours is strictly prohibited. While you are free to publish and distribute applications that incorporate this code, changing, altering, or applying a different license to the core CLB algorithm itself is strictly prohibited.
 
-3. EXCLUSIVE RESURRECTION RIGHT: 
-If the original source code or repository is deleted or shut down by external forces, 
-only our organization is entitled to recover and restore it. No other person or 
-organization shall attempt to restore it and claim rights over the project.
+### 3. EXCLUSIVE RESURRECTION RIGHT
+In the event that this original source code, repository, or organization is deleted, shut down, or erased from the digital space by external forces, the legitimate right to recover, restore, and resurrect the core infrastructure remains uniquely with our organization (and-to-you). No other person or organization shall attempt to restore it and claim rights over the project.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+---
+
+### DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
