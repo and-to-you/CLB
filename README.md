@@ -30,7 +30,7 @@ CLB combines **SHA-3-512**, **Memory-Hard Mixing**, and **Chaos Theory (LCG) Jum
 import hashlib
 
 # Call the CLB master algorithm
-output = cll(text="Your data here", secret_key="Your secret key here")
+output = clb(text="Your data here", secret_key="Your secret key here")
 print(output)
 ```
 
